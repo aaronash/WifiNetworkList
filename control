@@ -1,0 +1,9 @@
+Package: com.aaronash.wifinetworklist
+Name: WifiNetworkList
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: Aaron Ash
+Author: Aaron Ash
+Section: Utilities

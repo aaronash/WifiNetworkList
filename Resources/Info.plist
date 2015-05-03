@@ -1,0 +1,55 @@
+{
+	CFBundleExecutable = WifiNetworkList;
+	CFBundleIconFile = "icon.png";
+	CFBundleIdentifier = "com.aaronash.wifinetworklist";
+	"CFBundleInfoDictionaryVersion" = "6.0";
+	CFBundlePackageType = APPL;
+	CFBundleSignature = "????";
+	"CFBundleSupportedPlatforms" = (
+		iPhoneOS,
+	);
+	CFBundleVersion = "1.0";
+	UIDeviceFamily = (
+		1,
+		2,
+	);
+	DTPlatformName = iphoneos;
+	"UISupportedInterfaceOrientations~ipad" = (
+		"UIInterfaceOrientationPortrait",
+		"UIInterfaceOrientationPortraitUpsideDown",
+		"UIInterfaceOrientationLandscapeLeft",
+		"UIInterfaceOrientationLandscapeRight",
+	);
+	"UISupportedInterfaceOrientations - 2" = (
+		"UIInterfaceOrientationPortrait",
+		"UIInterfaceOrientationPortraitUpsideDown",
+		"UIInterfaceOrientationLandscapeLeft",
+		"UIInterfaceOrientationLandscapeRight",
+	);
+	DTSDKName = "iphoneos3.0";
+	LSRequiresIPhoneOS = 1;
+	"UISupportedInterfaceOrientations" = (
+		"UIInterfaceOrientationPortrait",
+	);
+	MinimumOSVersion = "3.0";
+	UILaunchImages = (
+		{
+			UILaunchImageSize = "{414, 736}";
+			"UILaunchImageOrientation" = Portrait;
+			UILaunchImageName = "Default-736h";
+			"UILaunchImageMinimumOSVersion" = "8.0";
+		},
+		{
+			UILaunchImageSize = "{320, 568}";
+			"UILaunchImageOrientation" = Portrait;
+			UILaunchImageName = "iOS7Default-568h";
+			"UILaunchImageMinimumOSVersion" = "7.0";
+		},
+		{
+			UILaunchImageSize = "{375, 667}";
+			"UILaunchImageOrientation" = Portrait;
+			UILaunchImageName = "Default-667h";
+			"UILaunchImageMinimumOSVersion" = "8.0";
+		},
+	);
+}
